@@ -1,4 +1,5 @@
 print("Welcome to my PC_Quiz!")
+
 playing = input("Do you want to play? (Y/N) ")
 
 if playing.lower() != "y":
